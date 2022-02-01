@@ -1,2 +1,2 @@
 # HDA
-A collection of HDAs (Houdini Digital Asset)
+A collection of HDAs (Houdini Digital Asset).

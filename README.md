@@ -1,7 +1,7 @@
 # Houdini snippets
-A collection of Houdini snippets
+A collection of Houdini snippets. <br>
 
-<h2>[VEX](https://robbertgroenendijk.github.io/Houdini_snippets/VEX)</h2><br>
-<h2>[Python](https://robbertgroenendijk.github.io/Houdini_snippets/Python)</h2><br>
-<h2>[HDAs](https://robbertgroenendijk.github.io/Houdini_snippets/HDA)</h2><br>
-<h2>[Example setups](https://robbertgroenendijk.github.io/Houdini_snippets/Setups)</h2><br>
+[VEX](https://robbertgroenendijk.github.io/Houdini_snippets/VEX)<br>
+[Python](https://robbertgroenendijk.github.io/Houdini_snippets/Python)<br>
+[HDAs](https://robbertgroenendijk.github.io/Houdini_snippets/HDA)<br>
+[Example setups](https://robbertgroenendijk.github.io/Houdini_snippets/Setups)<br>

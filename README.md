@@ -1,2 +1,2 @@
-# houdini_snippets
+# Houdini snippets
 A collection of Houdini snippets

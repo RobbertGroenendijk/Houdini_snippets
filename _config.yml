@@ -1,1 +1,5 @@
 remote_theme: lewismiddleton/cayman-dark
+
+title: Houdini snippets
+description: A collection of VEX and Python snippets for use in Houdini. This repository is maintained by Robbert Groenendijk.
+show_downloads: true

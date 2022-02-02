@@ -1,3 +1,8 @@
+# Houdini VEX snippets
+A collection of Houdini VEX snippets.
+
+*VEX snippets are stored in .vfl format. This allows the use of [VEX highlighting extensions](https://marketplace.visualstudio.com/items?itemName=melmass.vex) like [this](https://marketplace.visualstudio.com/items?itemName=melmass.vex).* <br>
+
 ---
 
 [Back to home](https://robbertgroenendijk.github.io/Houdini_snippets/)<br>
@@ -9,16 +14,9 @@
 
 ---
 
-# Houdini VEX snippets
-A collection of Houdini VEX snippets.
-
-*VEX snippets are stored in .vfl format. This allows the use of [VEX highlighting extensions](https://marketplace.visualstudio.com/items?itemName=melmass.vex) like [this](https://marketplace.visualstudio.com/items?itemName=melmass.vex).* <br>
-
----
-## Index
+## Index <br>
 
 [Packed-prim matrix transform by TRS component](#-matrix-trs-component-transform)
-
 
 ---
 ### Matrix TRS Component Transform

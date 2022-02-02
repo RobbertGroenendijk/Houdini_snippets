@@ -1,4 +1,4 @@
-# Houdini setup snippets=
+# Houdini setup snippets
 
 ---
 [Back to home](https://robbertgroenendijk.github.io/Houdini_snippets/)<br>

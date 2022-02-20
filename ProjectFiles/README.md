@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Project Files
 nav_order: 5
 nav_exclude: false

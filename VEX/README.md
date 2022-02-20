@@ -1,3 +1,8 @@
+---
+title: VEX
+nav_order: 2
+---
+
 # VEX
 A collection of Houdini VEX snippets.
 

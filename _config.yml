@@ -5,3 +5,11 @@ remote_theme: pmarsceill/just-the-docs
 color_scheme: dark
 
 
+aux_links:
+  "View on GitHub":
+    - "//github.com/RobbertGroenendijk/Houdini_snippets"
+
+
+back_to_top: true
+back_to_top_text: "Back to top"
+

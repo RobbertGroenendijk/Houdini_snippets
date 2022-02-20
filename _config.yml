@@ -1,5 +1,6 @@
 title: Houdini Snippets
 description: A collection of Houdini snippets in VEX, Python, HDA and .hip files.
 show_downloads: true
-remote_theme: lewismiddleton/cayman-dark
+remote_theme: pmarsceill/just-the-docs
+
 

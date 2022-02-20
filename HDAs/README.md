@@ -1,5 +1,11 @@
-# Houdini setup snippets
-A collection of Houdini setups (full project files).
+---
+layout: default
+title: Customization
+nav_order: 4
+---
+
+# HDAs
+A collection of HDAs (Houdini Digital Asset).
 
 ---
 
@@ -11,4 +17,5 @@ A collection of Houdini setups (full project files).
 [Example setups](https://robbertgroenendijk.github.io/Houdini_snippets/Setups)<br>
 
 ---
+
 

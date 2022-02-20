@@ -1,9 +1,3 @@
----
-title: VEX
-nav_order: 2
-nav_exclude: false
----
-
 # VEX
 A collection of Houdini VEX snippets.
 
@@ -48,6 +42,3 @@ translate(nm,trans);
 
 setpackedtransform(0,@primnum,nm); // set to transform
 ```
-
-<script src="https://emgithub.com/embed.js?target=https%3A%2F%2Fgithub.com%2FRobbertGroenendijk%2FHoudini_snippets%2Fblob%2Fmain%2FVEX%2FMatrixComponentTransform.vfl&style=vs2015&showCopy=on"></script>
----

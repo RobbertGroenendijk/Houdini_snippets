@@ -16,10 +16,10 @@ A collection of Houdini VEX snippets.
 
 ---
 ### Matrix TRS Component Transform
-<p>Snippet of Vex code that copies the transform of corresponding packed primitives from input 1 to input 0.
+<p>Copies the transform of corresponding packed primitives from input 1 to input 0.
 Cracks open that transform and promotes parameters for individual transform components.</p>
 
-```c
+```c++
 // Snippet of Vex code that copies the transform of corresponding packed primitives from input 1 to input 0.
 // Cracks open that transform and promotes parameters for individual transform components.
 

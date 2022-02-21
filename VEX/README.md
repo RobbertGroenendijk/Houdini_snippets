@@ -19,7 +19,7 @@ A collection of Houdini VEX snippets.
 <p>Copies the transform of corresponding packed primitives from input 1 to input 0.
 Cracks open that transform and promotes parameters for individual transform components.</p>
 
-```c++
+```cpp
 // Snippet of Vex code that copies the transform of corresponding packed primitives from input 1 to input 0.
 // Cracks open that transform and promotes parameters for individual transform components.
 

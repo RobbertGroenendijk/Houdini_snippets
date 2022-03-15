@@ -1,1 +1,5 @@
-$content-width: 1200px !default;
+@media (md) and (lg) and (xl) {
+    .main {
+        max-width: 75%;
+    }
+}

@@ -1,12 +1,6 @@
-@media (md) and (lg) and (xl) {
-    .main {
-        max-width: 75%;
-    }
+
+.main {
+    max-width:1200px;
+    background-color: red;
 }
 
-@media {
-    .main {
-        max-width:1200px;
-    }
-
-}

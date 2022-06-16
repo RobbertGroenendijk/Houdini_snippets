@@ -10,4 +10,11 @@ Might turn out to be a random collection. <br>
 
 ---
 
+## Index <br>
+
+[Light categories](#-light-categories)
+
+---
+### Light categories
+
 ![Light categories example](/Houdini_snippets/assets/images/lightCategories_image_1.png)

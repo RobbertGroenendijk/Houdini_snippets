@@ -16,8 +16,9 @@ A collection of Houdini VEX snippets.
 
 ---
 ### Matrix TRS Component Transform
-<p>Copies the transform of corresponding packed primitives from input 1 to input 0.
-Cracks open that transform and promotes parameters for individual transform components.</p>
+<p>I needed to lerp primitive positions, scales and rotations of packed primitives, and wanted individual control over all of the components individually.
+This uses an attribute wrangle with two inputs; one 'original input' and one 'target input' it then allows you to lerp between the two. This simple setup is based on the primitive number, so you basically just want to give it the same geometry with other positions, scales and rotations.
+</p>
 
 ```cpp
 // Snippet of Vex code that copies the transform of corresponding packed primitives from input 1 to input 0.
